@@ -1,12 +1,12 @@
 # Hi, I'm Ayush 👋
 
 🎓 MCA Student | Data Science Diploma (DUCAT) | BCA Graduate
-📊 Turning raw data into insights using Python, SQL, and Pandas
+📊 Turning raw data into insights using Python, SQL, Pandas, Machine Learning, and Deep Learning
 
 ---
 
 ### 🔭 What I'm working on
-Currently building my skills in **Data Analytics & Data Science**, with hands-on experience in data cleaning, feature engineering, KPI analysis, and visualization.
+Currently building my skills in **Data Analytics, Data Science, Machine Learning, and Deep Learning**, with hands-on experience in data cleaning, feature engineering, KPI analysis, and visualization.
 
 ### 🚀 Featured Project
 **[Customer Churn Analysis](https://github.com/ayush-antil/churn-analysis)**
@@ -15,15 +15,15 @@ End-to-end churn analysis on a multi-table SQLite database — cleaned and merge
 ### 🛠️ Skills
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy
-- **Concepts:** Data Cleaning, Feature Engineering, KPI Analysis, Data Visualization
+- **Concepts:** Machine Learning, Deep Learning, Data Cleaning, Feature Engineering, KPI Analysis, Data Visualization
 - **Tools:** Jupyter Notebook, Git/GitHub
 
 ### 🌱 Currently learning
-Machine Learning fundamentals and expanding my analytics toolkit.
+Advancing my Machine Learning and Deep Learning skills, and expanding my analytics toolkit.
 
 ### 📫 Connect with me
 - LinkedIn: [linkedin.com/in/your-linkedin-handle](https://linkedin.com)
-- Email: namasteitsayush@gmail.com
+- Email: [namasteitsayush@gmail.com](mailto:namasteitsayush@gmail.com)
 
 ---
-💡 Open to internships and entry-level opportunities in Data Analytics / Data Science.
+💡 Open to internships and entry-level opportunities in Data Analytics / Data Science / Machine Learning.
