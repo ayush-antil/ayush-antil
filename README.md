@@ -28,7 +28,7 @@ Currently building my skills in Data Analytics, Data Science, Machine Learning, 
 ## Certifications & Experience
 
 - **Data Scientist Diploma** — DUCAT IT School
-- **Data Scientist Intern** — Plantroo Company (March–August 2026): practical experience in data analysis, preprocessing, statistical analysis, visualization, and ML concepts — [view certificate](./Ayush_Plantroo_Internship_Certificate_2026.pdf)
+- **Data Scientist Intern** — Plantroo Company (March–August 2026): practical experience in data analysis, preprocessing, statistical analysis, visualization, and ML concepts
 
 ## Currently learning
 
