@@ -11,7 +11,7 @@ I turn raw data into insights and working products using Python, SQL, Machine Le
 - Pipeline: PDF ingestion, chunking, local embeddings, ChromaDB retrieval, Gemini answers grounded in retrieved context
 - Evaluated retrieval accuracy on a hand-built question set and ran a chunk-size ablation
 - Stack: Python, Streamlit, ChromaDB, Sentence-Transformers, Gemini
-- [Live demo]([https://YOUR-STREAMLIT-LINK](https://10k-intelligence.streamlit.app/)
+- [Live demo](https://10k-intelligence.streamlit.app/)
 
 ## Other Projects
 
